@@ -74,7 +74,7 @@ Mesmo sendo um projeto simples, ele serve como uma ótima base para estudos, rev
 - Python  
 - Pandas  
 - Matplotlib  
-- NumPy  
+- seaborn  
 
 ---
 
